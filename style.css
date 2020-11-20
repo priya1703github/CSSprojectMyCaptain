@@ -1,0 +1,60 @@
+h1{
+font-family: Goldman; 
+background-color: blue;
+color: white;
+padding: 30px;
+text-align: center;
+}
+
+hr{border: 2px solid blue; width: 50%;
+
+}
+
+h2{ 
+font-family: Goldman;
+text-align: center;
+	 }
+h3{
+font-family: Lobster;
+text-align: center;
+}
+
+p{
+font-family: Lobster;
+margin-left: 100px;
+margin-right: 100px;
+text-align: center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.special_para{
+font-family: Crimson Text;
+font-size: 30px;
+}
+.actual_matter{
+font-family: Crimson Text;
+line-height: 2; 
+}
+h4{
+font-family: Crimson Text;
+text-align: center;	
+}
+ul{
+	list-style: none;
+}
+li{display: inline;
+	margin: 120px;
+}
+footer{
+font-family: Goldman; 
+background-color: blue;
+color: white;
+padding: 5px;
+text-align: center;
+}
+header{}
